@@ -44,11 +44,11 @@ Capa:
 > Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em banco de dados e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de banco de dados feito por nerds, e que tenha algum trocadilho nerd no nome
 O podcast vai falar sobre dicas e novidades sobre o mundo do banco de dados e o que está acontecendo no mercado
 {REGRAS}
-- O nome deve ser enxuto, um nome e um subtítulo
-- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas sigma
-- O nome deve conter alguma palavra forte que remeta a banco de dados
-{REGRAS NEGATIVAS}
-- Não utilize a palavra banco de dados no nome nem qualquer variação dela
+> - O nome deve ser enxuto, um nome e um subtítulo
+> - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas sigma
+> - O nome deve conter alguma palavra forte que remeta a banco de dados
+> {REGRAS NEGATIVAS}
+> - Não utilize a palavra banco de dados no nome nem qualquer variação dela
 
 Roteiro:
 > Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em banco de dados cujo o nome é "SQL Trek: The Data Frontier" e tem foco em banco de dados,  com o público alvo de iniciantes em banco de dados
