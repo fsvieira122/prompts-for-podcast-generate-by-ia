@@ -58,16 +58,16 @@ o formato do roteiro deve ser
 [CURIOSIDADE 2]
 [FINALIZAÇÃO]
 {REGRAS}
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'jovem nerd', como se fossem escritos pelo Alexandre Ottoni
-- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Banco de dados
-- no bloco [CURIOSIDADE 2] sobre uma ferramenta para banco de dados
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Fernando e esse foi o SQL Trek dessa semana'
-- use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Fernando
-- O podcast deve ser curto
+> - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'jovem nerd', como se fossem escritos pelo Alexandre Ottoni
+> - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Banco de dados
+> - no bloco [CURIOSIDADE 2] sobre uma ferramenta para banco de dados
+> - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Fernando e esse foi o SQL Trek dessa semana'
+> - use termos de fácil explicação
+> - O podcast vai ser apresentado somente por uma pessoa, chamada Fernando
+> - O podcast deve ser curto
 {REGRAS NEGATIVAS}
-- Não use muitos termos técnicos
-- Não ultrapasse 5 minutos de duração
+> - Não use muitos termos técnicos
+> - Não ultrapasse 5 minutos de duração
 
 - 🤖 2. Usar os prompts de roteiro gerados pelo chatgpt no  `Lovo`
 
